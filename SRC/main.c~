@@ -1,0 +1,13 @@
+/*
+** EPITECH PROJECT, 2017
+** main.c
+** File description:
+** main
+*/
+
+#inlude "struct.h"
+
+int main()
+{
+	return (0);
+}
